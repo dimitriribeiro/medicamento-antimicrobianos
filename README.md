@@ -53,7 +53,7 @@ Entender como estão distruíbuidas as vendas de medicamentos antimicrobianos no
 
 ## Dados
 
-Os dados utilizados para essa análise estão disponíveis no site de Dados Abertos do Governo Federal.
+Os dados utilizados para essa análise estão disponíveis no site de Dados Abertos do Governo Federal.<br>
 Acesso: https://dados.gov.br/dados/conjuntos-dados/venda-de-medicamentos-controlados-e-antimicrobianos---medicamentos-industrializados
 Observação fornecida pela página de acesso dos dados:<br>
 
