@@ -16,10 +16,11 @@ Entendendo o perfil de venda de medicamentos controlados de classificação Tarj
 
 ## Visão Geral
 
-<p>Antes de  ingressar na faculdade de farmácia em 2019, sempre que eu tinha em mãos uma caixa de medicamentos  Eu nunca parei para me perguntar qual a importância dessas marcas características de diferentes cores nesses objetos de papel que guardavam comprimidos e outros remédios eu não tinha ideia da importância dessas classificações. Hoje eu sei  que essas categorias ela encaixa pela agência de vigilância sanitária são importantes para proteger a população do uso irresponsável de medicamentos. Existem bastante relatos de uso indiscriminado de medicamentos e também na cultura pop contudo é muito mais abordado os indiscriminado de tarjas pretas pois eles afetam o sistema nervoso central de seus usuários, como recentemente mostra na novela Terra e Paixão com a personagem Petra, interpreta pela atriz brasileira Débora Osório. </p>
+<p>Entender o perfil de compra de medicamentos de uma população é sempre importante para desenvolver ações em que o uso racional de medicamentos seja  divulgado para conscientização a mesma. Além disso, é possível saber quais campanhas podem ser feitas para que a população não use  medicamentos de forma indiscriminada. Um desses tipos de medicamentos são os antibióticos. É exatamente sobre essa classe terapêutica que a base de dados presente nessa análise aborda, contudo é importante salientar que os dados são apenas um recorte dos dados registrados no ano de 2021 apenas para o mês de novembro. Esse fato não é empecilho para que a análise seja profunda e que possa incentivar outros tipos de análises ou ações. </p>
 
-![image](https://github.com/dimitriribeiro/medicamento-antimicrobianos/assets/108006649/1f1c4dbe-6ff5-48b4-ba1d-b1b237ee1719)
-Fonte: https://observatoriodatv.uol.com.br/colunas/clara-ribeiro/quem-e-a-petra-de-terra-e-paixao-atriz-ja-fez-varias-novelas-na-globo
+
+![7MasUK1FYA1xu4MaWaEy2xWwbw9NeA2E7vpWpsDN](https://github.com/yurilimadev/medicamento-antimicrobianos/assets/108006649/4619cc7c-0c4f-4ef2-a8c1-295580fb0798)
+Fonte: https://eurofarma.com.br/artigos/antibioticos-a-importancia-do-uso-consciente
 
 <p>De fato, se necessário cada vez mais a educação sobre esse tipo de medicamento, contudo com a pandemia COVID-19, a qual afetou todo o mundo, outro uso de medicamentos que atrapalhou bastante o combate a essa situação sanitária sem precedentes que foi o uso irresponsável de  tarjas vermelhas e amarelas como os antimicrobianos.</p>
 
