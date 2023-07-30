@@ -70,11 +70,11 @@ seus registros internos, a partir de 5 de outubro de 2021, a transmissão de dad
 
 ## Análises Realizadas
 
-🔲 Exploração de Dados<br>
-🔲 Pré-Processamento<br>
-🔲 Análise Descritiva<br>
-🔲 Visualização de Dados<br>
-🔲 Conclusões
+☑️ Exploração de Dados<br>
+☑️ Pré-Processamento<br>
+☑️ Análise Descritiva<br>
+☑️ Visualização de Dados<br>
+☑️ Conclusões
 
 ## Resultados
 
