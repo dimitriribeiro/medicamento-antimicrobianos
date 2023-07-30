@@ -82,7 +82,7 @@ Em processo.
 
 ## Status do Projeto
 
-Explorando e Entendendo os Dados
+Concluído
 
 ## Licença
 
